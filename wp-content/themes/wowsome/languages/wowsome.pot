@@ -1,0 +1,501 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wowsome\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-05-03 17:26+0530\n"
+"PO-Revision-Date: 2017-05-03 17:26+0530\n"
+"Last-Translator: \n"
+"Language-Team: Theme Horse <support@themehorse.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e;esc_attr_n;_x;esc_html__\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: comments.php:30
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgstr ""
+
+#: comments.php:39
+#: comments.php:60
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:40
+#: comments.php:61
+msgid "Newer Comments"
+msgstr ""
+
+#: functions.php:47
+msgid "Primary"
+msgstr ""
+
+#: functions.php:48
+msgid "Social Navigation"
+msgstr ""
+
+#: functions.php:49
+msgid "Top Right Section Navigation"
+msgstr ""
+
+#: functions.php:50
+msgid "Footer Navigation"
+msgstr ""
+
+#: search.php:19
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:11
+#: searchform.php:12
+msgid "Search"
+msgstr ""
+
+#: inc/customizer.php:16
+msgid "Review Wowsome"
+msgstr ""
+
+#: inc/customizer.php:17
+msgid "Rate Wowsome"
+msgstr ""
+
+#: inc/customizer.php:19
+msgid "Wowsome Theme Instructions"
+msgstr ""
+
+#: inc/customizer.php:20
+msgid "Theme Instructions"
+msgstr ""
+
+#: inc/customizer.php:22
+#: inc/customizer.php:23
+msgid "Support Forum"
+msgstr ""
+
+#: inc/customizer.php:25
+msgid "Wowsome Demo"
+msgstr ""
+
+#: inc/customizer.php:26
+msgid "View Demo"
+msgstr ""
+
+#: inc/customizer.php:68
+msgid "Wowsome Theme Options"
+msgstr ""
+
+#: inc/customizer.php:79
+msgid "Wowsome Support"
+msgstr ""
+
+#: inc/customizer.php:92
+msgid "Wowsome Upgrade"
+msgstr ""
+
+#: inc/customizer.php:100
+msgid "Layout Options"
+msgstr ""
+
+#: inc/customizer.php:111
+msgid "Site Layout"
+msgstr ""
+
+#: inc/customizer.php:117
+msgid "Wide Layout"
+msgstr ""
+
+#: inc/customizer.php:118
+msgid "Narrow Layout"
+msgstr ""
+
+#: inc/customizer.php:129
+msgid "Content Layout"
+msgstr ""
+
+#: inc/customizer.php:130
+msgid "Below options are global setting. Set individual layout from specific page/ post."
+msgstr ""
+
+#: inc/customizer.php:136
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/customizer.php:137
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/customizer.php:138
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/customizer.php:139
+msgid "No Sidebar Full Width"
+msgstr ""
+
+#: inc/customizer.php:144
+msgid "Header Options"
+msgstr ""
+
+#: inc/customizer.php:156
+msgid "Hide Search Icon"
+msgstr ""
+
+#: inc/customizer.php:170
+msgid "Contact Info Bar"
+msgstr ""
+
+#: inc/customizer.php:171
+msgid "Enter Phone Number Only"
+msgstr ""
+
+#: inc/customizer.php:184
+msgid "Email Address Only"
+msgstr ""
+
+#: inc/customizer.php:197
+msgid "Location Only"
+msgstr ""
+
+#: inc/customizer.php:210
+msgid "Location Url Only"
+msgstr ""
+
+#: inc/customizer.php:223
+msgid "Skype ID Only"
+msgstr ""
+
+#: inc/customizer.php:236
+msgid "Disable Info Bar"
+msgstr ""
+
+#: inc/customizer.php:249
+msgid "Disable Social Profiles from Info Bar"
+msgstr ""
+
+#: inc/customizer.php:257
+msgid "Home Page Blog Category Setting"
+msgstr ""
+
+#: inc/customizer.php:258
+msgid "Only posts that belong to the categories selected here will be displayed on the front page. ( You may select multiple categories by holding down the Ctrl/Command key. ) "
+msgstr ""
+
+#: inc/customizer.php:273
+msgid "Front page posts categories"
+msgstr ""
+
+#: inc/customizer.php:287
+msgid "Check to Default Settings"
+msgstr ""
+
+#: inc/customizer.php:295
+msgid "Featured Slider Options"
+msgstr ""
+
+#: inc/customizer.php:307
+msgid "Number of Slides"
+msgstr ""
+
+#: inc/customizer.php:320
+msgid "Transition Effect"
+msgstr ""
+
+#: inc/customizer.php:325
+msgid "Fade"
+msgstr ""
+
+#: inc/customizer.php:326
+msgid "Wipe"
+msgstr ""
+
+#: inc/customizer.php:327
+msgid "Scroll Up"
+msgstr ""
+
+#: inc/customizer.php:328
+msgid "Scroll Down"
+msgstr ""
+
+#: inc/customizer.php:329
+msgid "Scroll Left"
+msgstr ""
+
+#: inc/customizer.php:330
+msgid "Scroll Right"
+msgstr ""
+
+#: inc/customizer.php:331
+msgid "Blind X"
+msgstr ""
+
+#: inc/customizer.php:332
+msgid "Blind Y"
+msgstr ""
+
+#: inc/customizer.php:333
+msgid "Blind Z"
+msgstr ""
+
+#: inc/customizer.php:334
+msgid "Cover"
+msgstr ""
+
+#: inc/customizer.php:335
+msgid "Shuffle"
+msgstr ""
+
+#: inc/customizer.php:346
+msgid "Transition Delay"
+msgstr ""
+
+#: inc/customizer.php:359
+msgid "Transition Length"
+msgstr ""
+
+#: inc/customizer.php:366
+msgid "Post Slider Options"
+msgstr ""
+
+#: inc/customizer.php:379
+msgid " Enter Post ID #"
+msgstr ""
+
+#: inc/customizer.php:393
+msgid "Disable Slider"
+msgstr ""
+
+#: inc/customizer.php:406
+msgid "Check to exclude"
+msgstr ""
+
+#: inc/customizer.php:407
+msgid "Exclude Slider post from Homepage posts?"
+msgstr ""
+
+#: inc/customizer.php:414
+msgid "Footer Options"
+msgstr ""
+
+#: inc/customizer.php:426
+msgid "Hide Site Title"
+msgstr ""
+
+#: inc/customizer.php:439
+msgid "Copyright Info/ Social Profile display side by side"
+msgstr ""
+
+#: inc/functions.php:190
+msgid "Page NOT Found"
+msgstr ""
+
+#: inc/functions.php:192
+msgid "Search Results"
+msgstr ""
+
+#: inc/functions.php:229
+msgid "\"Responsive Menu\""
+msgstr ""
+
+#: inc/functions.php:231
+msgid "\"Call Us\""
+msgstr ""
+
+#: inc/functions.php:238
+msgid "\"Mail Us\""
+msgstr ""
+
+#: inc/functions.php:245
+msgid "\"My Location\""
+msgstr ""
+
+#: inc/functions.php:252
+msgid "\"Connect with Us\""
+msgstr ""
+
+#: inc/wowsome-footer-info.php:29
+#, php-format
+msgid "Proudly Powered by: %s"
+msgstr ""
+
+#: inc/wowsome-footer-info.php:29
+msgid "WordPress"
+msgstr ""
+
+#: inc/wowsome-footer-info.php:36
+#, php-format
+msgid "Theme by: %s"
+msgstr ""
+
+#: inc/wowsome-footer-info.php:36
+msgid "Theme Horse"
+msgstr ""
+
+#: inc/wowsome-metaboxes.php:18
+msgid "Below setting will not reflect on Main Blog Layout"
+msgstr ""
+
+#: inc/wowsome-metaboxes.php:32
+msgid "Default Layout Set in Customizer"
+msgstr ""
+
+#: inc/wowsome-metaboxes.php:37
+msgid "No sidebar"
+msgstr ""
+
+#: inc/wowsome-metaboxes.php:42
+msgid "No sidebar, Full Width"
+msgstr ""
+
+#: inc/wowsome-metaboxes.php:47
+msgid "Left sidebar"
+msgstr ""
+
+#: inc/wowsome-metaboxes.php:52
+msgid "Right sidebar"
+msgstr ""
+
+#: template-parts/content-none.php:21
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-page.php:26
+#: template-parts/content.php:40
+#: template-parts/content.php:55
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-page.php:40
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: template-parts/content.php:43
+msgid ", "
+msgstr ""
+
+#: template-parts/widgets/wowsome-widgets.php:22
+msgid "Shows widgets at Left side."
+msgstr ""
+
+#: template-parts/widgets/wowsome-widgets.php:33
+msgid "Shows widgets at Right side."
+msgstr ""
+
+#: template-parts/widgets/wowsome-widgets.php:42
+msgid "Business Template Section"
+msgstr ""
+
+#: template-parts/widgets/wowsome-widgets.php:44
+msgid "Shows widgets on Business Template Page."
+msgstr ""
+
+#: template-parts/widgets/wowsome-widgets.php:53
+msgid "Footer - Column1"
+msgstr ""
+
+#: template-parts/widgets/wowsome-widgets.php:55
+msgid "Shows widgets at footer Column 1."
+msgstr ""
+
+#: template-parts/widgets/wowsome-widgets.php:64
+msgid "Footer - Column2"
+msgstr ""
+
+#: template-parts/widgets/wowsome-widgets.php:66
+msgid "Shows widgets at footer Column 2."
+msgstr ""
+
+#: template-parts/widgets/wowsome-widgets.php:75
+msgid "Footer - Column3"
+msgstr ""
+
+#: template-parts/widgets/wowsome-widgets.php:77
+msgid "Shows widgets at footer Column 3."
+msgstr ""
+
+#: template-parts/widgets/wowsome-widgets.php:86
+msgid "Footer - Column4"
+msgstr ""
+
+#: template-parts/widgets/wowsome-widgets.php:88
+msgid "Shows widgets at footer Column 4."
+msgstr ""
+
+#: template-parts/widgets/wowsome-widgets.php:113
+msgid "Display Services"
+msgstr ""
+
+#: template-parts/widgets/wowsome-widgets.php:119
+msgid "TH: Services"
+msgstr ""
+
+#: template-parts/widgets/wowsome-widgets.php:137
+msgid "Select Design:"
+msgstr ""
+
+#: template-parts/widgets/wowsome-widgets.php:138
+msgid "Click on Save button after you change the design below. Make sure some previous settings will be reset while changing the design. "
+msgstr ""
+
+#: template-parts/widgets/wowsome-widgets.php:140
+msgid "Page with Icon/ Featured Image"
+msgstr ""
+
+#: template-parts/widgets/wowsome-widgets.php:142
+msgid "Page with Featured Image"
+msgstr ""
+
+#: template-parts/widgets/wowsome-widgets.php:144
+msgid "Promotional Bar"
+msgstr ""
+
+#: template-parts/widgets/wowsome-widgets.php:147
+msgid "Display Content Align:"
+msgstr ""
+
+#: template-parts/widgets/wowsome-widgets.php:149
+msgid "Left Align"
+msgstr ""
+
+#: template-parts/widgets/wowsome-widgets.php:151
+msgid "Center Align"
+msgstr ""
+
+#: template-parts/widgets/wowsome-widgets.php:156
+msgid "Title:"
+msgstr ""
+
+#: template-parts/widgets/wowsome-widgets.php:162
+msgid "Content:"
+msgstr ""
+
+#: template-parts/widgets/wowsome-widgets.php:168
+msgid "Button Text:"
+msgstr ""
+
+#: template-parts/widgets/wowsome-widgets.php:174
+msgid "Button Link:"
+msgstr ""
+
+#: template-parts/widgets/wowsome-widgets.php:189
+msgid "Font Awesome Icon class: "
+msgstr ""
+
+#: template-parts/widgets/wowsome-widgets.php:196
+#: template-parts/widgets/wowsome-widgets.php:372
+msgid "Page"
+msgstr ""
+
+#: template-parts/widgets/wowsome-widgets.php:351
+msgid "Display Our Clients"
+msgstr ""
+
+#: template-parts/widgets/wowsome-widgets.php:357
+msgid "TH: Our Clients"
+msgstr ""
+
